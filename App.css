@@ -1,7 +1,7 @@
 body {
   background: rgb(214, 212, 212);
   text-align: center;
-  font-family: 'Roboto', sans-serif; /* Use Roboto to align with MUI typography */
+  font-family: 'Roboto', sans-serif; 
 }
 
 .container {
@@ -15,5 +15,5 @@ body {
 }
 
 button:hover {
-  background-color: #2b036c; /* Optional, for custom hover effect */
+  background-color: #2b036c; 
 }
